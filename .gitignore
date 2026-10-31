@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Secrets and local settings
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.DS_Store
+# Jupyter
+.ipynb_checkpoints/
